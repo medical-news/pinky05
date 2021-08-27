@@ -260,7 +260,7 @@ jQuery(document).ready(function($) {
                     });
                 }, 1000);
                 document.getElementById('confirm').style.display = "none";
-                document.getElementById('dkmthangmark').innerHTML = `<div class="loading"><div class="loadingio-spinner-eclipse-sarlfnuvhog"><div class="ldio-2l225u9m8j9"><div></div></div></div></div>`;
+                document.getElementById('dkmthangmark').innerHTML = `<div class="loading"><div class="loadingio-spinner-reload-5o9vh2r1rdn"><div class="ldio-l01qrxi7kud"><div><div></div><div></div><div></div></div></div></div></div>`;
             }).catch(function(err) {
                 alert('Loi');
             })
